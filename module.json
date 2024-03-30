@@ -1,6 +1,6 @@
 {
-    "servers": ["https://raw.githubusercontent.com/tera-toolbox-mods/library/master/"],
-    "supportUrl": "https://github.com/tera-toolbox-mods/library/issues",
+    "servers": ["https://raw.githubusercontent.com/tera-private-toolbox/library/master/"],
+    "supportUrl": "https://github.com/tera-private-toolbox/library/issues",
     "name": "library",
     "disableAutoUpdate": false
 }
